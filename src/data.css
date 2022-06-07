@@ -1,0 +1,13 @@
+.main{
+    width: 300px;
+    height: 400px;
+    /* background: red; */
+    box-shadow: 0 0 20px 4px rgba(19, 215, 172, .5);
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
